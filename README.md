@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on building web and mobile applications.
-- 📫 How to reach me: You can reach me at jeremiahlat@gmail.com. Twitter: @jeremiahlateef
+- 📫 How to reach me: You can reach me at lateefjeremiah@gmail.com. Twitter: @jeremiahlateef
 
 <!---
 Jerryl-597/Jerryl-597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
